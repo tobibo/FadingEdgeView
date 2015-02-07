@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="au.com.tosa.fadingEdgeView">
+    <uses-sdk android:minSdkVersion="10"/>
+    <application></application>
+</manifest>

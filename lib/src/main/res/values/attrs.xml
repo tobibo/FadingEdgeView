@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FadingEdgeView">
+        <attr name="bottomFade" format="boolean" />
+        <attr name="topFade" format="boolean" />
+        <attr name="colorFade" format="color" />
+        <attr name="heightFade" format="dimension"/>
+    </declare-styleable>
+</resources>
